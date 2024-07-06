@@ -46,3 +46,4 @@ Läuft bestimmt auch auf neueren Java-Versionen, ist aber nicht getestet.
 
 ## Screenshots
 ![Screenshot of the Program](pic-1.png)
+![Screenshot of the Program](pic-2.png)
