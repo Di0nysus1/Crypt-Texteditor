@@ -1,6 +1,6 @@
 # Texteditor mit Verschlüsselung
 
-Ein Texteditor ähnlich wie der Windows-Editor, nur mit AES256-Verschlüsselung und in Farbe.
+Ein Texteditor ähnlich wie der Windows-Editor, nur mit AES256-Verschlüsselung und in Farbe. gemacht von mir (Di0nysus) und NightDev701
 
 ## Installation und Start
 
@@ -12,7 +12,6 @@ Zum Öffnen mit Konsolenfenster `Debug.exe` ausführen.
 Um eine Textdatei zu verschlüsseln, wähle beim Speichern als Dateityp `.crypt` aus, klicke auf Speichern und gib ein Passwort ein. Dieses Passwort musst du später beim Öffnen der `.crypt`-Datei eingeben. 
 
 Wenn du überprüfen willst, ob die `.crypt`-Datei auch wirklich verschlüsselt ist, öffne sie doch mal mit dem Windows-Editor.
-gemacht von mir (Di0nysus) und NightDev701
 
 `Editor.exe` öffnet einfach nur `editor.jar` mit den gegebenen Startparametern.
 
