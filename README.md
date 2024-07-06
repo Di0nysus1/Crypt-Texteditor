@@ -2,6 +2,8 @@
 
 Ein Texteditor ähnlich wie der Windows-Editor, nur mit AES256-Verschlüsselung und in Farbe. gemacht von mir (Di0nysus) und NightDev701
 
+Für alle Deppen wie mich die ihre Passwörter in eine Text Datei schreiben
+
 ## Installation und Start
 
 Zum Starten `Editor.exe` ausführen.  
